@@ -1,0 +1,10 @@
+MONGO_HOST: mongodb-dev.saitejag.site
+WEB_HOST: web-dev.saitejag.site
+USER_HOST: user-dev.saitejag.site
+CART_HOST: cart-dev.saitejag.site
+CATALOGUE_HOST: catalogue-dev.saitejag.site
+SHIPPING_HOST: shipping-dev.saitejag.site
+MYSQL_HOST: mysql-dev.saitejag.site
+RABBITMQ_HOST: rabbitmq-dev.saitejag.site
+REDIS_HOST: redis-dev.saitejag.site
+PAYMENTS_HOST: payments-dev.saitejag.site
